@@ -58,14 +58,6 @@ blockquote{
   font-style: italic;
 }
 #tribute-info{
-
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
-
-
-#ul-tribute {
-  padding-right: 40px;
-  margin-left: 200px;
-  margin-right: 200px;
-} 
