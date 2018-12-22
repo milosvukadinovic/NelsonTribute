@@ -1,4 +1,4 @@
-html,body{
+/* html,body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align:center;
   min-width:260px;
@@ -42,3 +42,15 @@ li{
 blockquote{
   font-style: italic;
 }
+#tribute-info{
+
+  margin-left: 20px;
+  margin-right: 20px;
+}
+*/
+
+#ul-tribute {
+  padding-right: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
+} 
