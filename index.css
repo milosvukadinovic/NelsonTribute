@@ -3,7 +3,16 @@
   text-align:center;
   min-width:260px;
   color:#333;
+
 }
+body{background-image: url(https://i.stack.imgur.com/p9mUO.jpg); 
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
 #main{
   margin:30px auto;
   padding:15px;
