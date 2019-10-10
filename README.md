@@ -6,3 +6,9 @@ Very simple tribute page to Nelson Mandela
 Open index.html in your browser.
 
 ![Alt text](/photo/Screenshot_6.jpg)
+
+
+## Authors
+
+* [@azdrenymeri](https://github.com/azdrenymeri) 
+* [@milosvukadinovic](https://github.com/milosvukadinovic)
