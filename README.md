@@ -1,5 +1,8 @@
-# NelsonTribute
-Tribute page to Nelson
-Website : https://maleksal.github.io/microserve-collab/index.html
-![Screenshot](/photo/screenshot_6.jpg)
+# NelsonTribute [Live](https://nelsontribute.herokuapp.com/)
+Very simple tribute page to Nelson Mandela
+
+## Run
+
+Open index.html in your browser.
+
 ![Alt text](/photo/Screenshot_6.jpg)
